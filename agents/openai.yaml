@@ -1,0 +1,5 @@
+interface:
+  display_name: "授权回放转写"
+  short_description: "将授权直播回放整理为时间码逐字稿、摘要和可交付文档"
+  default_prompt: "Use $authorized-live-transcript to transcribe this replay I am authorized to access and prepare the requested transcript and summaries."
+
